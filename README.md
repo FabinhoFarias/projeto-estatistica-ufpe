@@ -21,9 +21,15 @@ No Parque Nacional Marinho de Fernando de Noronha, uma competição acirrada oco
 ## 📂 Estrutura do projeto
 
 ```
-project-statistics-and-probability-computing
+projeto-estatistica-ufpe
 ├── README.md
 ├── Relatório Estatística.pdf
+├── imgs
+|  └── pessoas
+|.    ├── fabinho.jpeg
+|.    ├── gabriel.jpeg
+|.    ├── victor.webp
+|.    └── will.jpg
 ├── docs
 |  ├── development_reference
 |  |  └── git_work_flow.txt
@@ -33,15 +39,7 @@ project-statistics-and-probability-computing
 |     └── template_cisti_2014_pt.docx
 ├── requirements.txt
 └── src
-   ├── main.ipynb
-   └── modules
-      ├── Funcao_min_max.py
-      ├── __init__.py
-      ├── data.py
-      ├── graphics.py
-      ├── measure_centrality.py
-      ├── normal_test.py
-      └── setup.py
+   ├── notebook.ipynb
 
 ```
 
@@ -64,5 +62,5 @@ project-statistics-and-probability-computing
 
 ## ✒️ Autores
 
-| [<img  src="./imgs/pessoas/Fabinho.jpg" width=120><br><sub>Fábio Filho</sub>](https://github.com/thedouglasaraujo) | [<img src="./imgs/pessoas/wil.jpg" width=115><br><sub>Williams Andrade</sub>](https://github.com/hallanangelo) | [<img  src="./imgs/pessoas/gabriel.jpeg" width=85><br><sub>Gabriel Walisson</sub>](https://github.com/HitaloNasc) | [<img  src="./imgs/pessoas/victor.webp" width=110><br><sub>Victor Aurélio</sub>](https://github.com/ingridfsl) | [<img src="https://avatars.githubusercontent.com/u/104030171?v=4" width=115><br><sub>Gleybson Ricardo</sub>](https://github.com/katharianabrahel) |
+| [<img  src="./imgs/pessoas/Fabinho.jpg" width=120><br><sub>Fábio Filho</sub>](https://github.com/LordFabinho) | [<img src="./imgs/pessoas/wil.jpg" width=115><br><sub>Williams Andrade</sub>](https://github.com) | [<img  src="./imgs/pessoas/gabriel.jpeg" width=85><br><sub>Gabriel Walisson</sub>](https://github.com) | [<img  src="./imgs/pessoas/victor.webp" width=110><br><sub>Victor Aurélio</sub>](https://github.com/ovictoraurelio) | [<img src="https://avatars.githubusercontent.com/u/104030171?v=4" width=115><br><sub>Gleybson Ricardo</sub>](https://github.com) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
