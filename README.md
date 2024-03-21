@@ -31,12 +31,7 @@ projeto-estatistica-ufpe
 |.    ├── victor.webp
 |.    └── will.jpg
 ├── docs
-|  ├── development_reference
-|  |  └── git_work_flow.txt
-|  └── project_material
-|     ├── Especificação_projeto_2022.2.pdf
-|     ├── data_set_group_0.txt
-|     └── template_cisti_2014_pt.docx
+|  └── análise_estatística_de_dados_de_monitoramento_ambiental.pdf
 ├── requirements.txt
 └── src
    ├── notebook.ipynb
