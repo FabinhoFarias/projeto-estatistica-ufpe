@@ -23,13 +23,13 @@ No Parque Nacional Marinho de Fernando de Noronha, uma competição acirrada oco
 ```
 projeto-estatistica-ufpe
 ├── README.md
-├── Relatório Estatística.pdf
 ├── imgs
 |  └── pessoas
-|.    ├── fabinho.jpeg
-|.    ├── gabriel.jpeg
-|.    ├── victor.webp
-|.    └── will.jpg
+|     ├── fabinho.jpeg
+|     ├── gabriel.jpeg
+|     ├── victor.webp
+|     ├── ricardo.jpeg
+|     └── will.jpg
 ├── docs
 |  └── análise_estatística_de_dados_de_monitoramento_ambiental.pdf
 ├── requirements.txt
