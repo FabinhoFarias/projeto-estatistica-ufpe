@@ -34,7 +34,7 @@ projeto-estatistica-ufpe
 |  └── análise_estatística_de_dados_de_monitoramento_ambiental.pdf
 ├── requirements.txt
 └── src
-   ├── notebook.ipynb
+   └── notebook.ipynb
 
 ```
 
