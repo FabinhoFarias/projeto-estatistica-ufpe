@@ -1,4 +1,4 @@
-![IMG_2679](https://github.com/LordFabinho/projeto-estatistica-ufpe/assets/145404540/28fc9c81-eaae-40f6-936f-fd32754ed458)<p align="center">
+<p align="center">
   <img align="center" src='https://user-images.githubusercontent.com/54161035/200095500-d5fec4ba-c97e-4f19-9e39-6764418a736b.png' />
 </p>
 <p align="center">UNIVERSIDADE FEDERAL DE PERNAMBUCO-UFPE</p>
@@ -64,5 +64,5 @@ project-statistics-and-probability-computing
 
 ## ✒️ Autores
 
-| [<img  src="./img/pessoas/fabinho.jpg" width=115><br><sub>Fábio Filho</sub>](https://github.com/thedouglasaraujo) | [<img src="./imgs/pessoas/wil.jpg" width=115><br><sub>Williams Andrade</sub>](https://github.com/hallanangelo) | [<img src="https://avatars.githubusercontent.com/u/54161035?v=4" width=115><br><sub>Gabriel Walisson</sub>](https://github.com/HitaloNasc) | [<img  src="./imgs/pessoas/victor.webp" width=115><br><sub>Victor Aurélio</sub>](https://github.com/ingridfsl) | [<img src="https://avatars.githubusercontent.com/u/104030171?v=4" width=115><br><sub>Gleybson Ricardo</sub>](https://github.com/katharianabrahel) |
+| [<img  src="./imgs/pessoas/fabinho.jpg" width=115><br><sub>Fábio Filho</sub>](https://github.com/thedouglasaraujo) | [<img src="./imgs/pessoas/wil.jpg" width=115><br><sub>Williams Andrade</sub>](https://github.com/hallanangelo) | [<img src="https://avatars.githubusercontent.com/u/54161035?v=4" width=115><br><sub>Gabriel Walisson</sub>](https://github.com/HitaloNasc) | [<img  src="./imgs/pessoas/victor.webp" width=115><br><sub>Victor Aurélio</sub>](https://github.com/ingridfsl) | [<img src="https://avatars.githubusercontent.com/u/104030171?v=4" width=115><br><sub>Gleybson Ricardo</sub>](https://github.com/katharianabrahel) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
